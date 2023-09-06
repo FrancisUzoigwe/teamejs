@@ -63,7 +63,8 @@
 
 .click-me {
   padding: 10px 20px;
-  background-color: blue;
+  background-color: rgb(82, 82, 82);
+  font-weight: 900;
   border: none;
   border-radius: 3px;
   color: white;
